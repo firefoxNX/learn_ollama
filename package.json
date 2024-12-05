@@ -9,7 +9,7 @@
   "dependencies": {
     "cookie-parser": "1.4.7",
     "debug": "4.3.5",
-    "express": "4.21.1",
+    "express": "4.21.2",
     "got": "^14.3.0",
     "mongoose": "8.4.1",
     "morgan": "1.10.0",

@@ -11,7 +11,7 @@
     "debug": "4.3.5",
     "express": "4.21.1",
     "got": "^14.3.0",
-    "mongoose": "8.4.1",
+    "mongoose": "8.9.5",
     "morgan": "1.10.0",
     "ollama": "0.5.1"
   }
